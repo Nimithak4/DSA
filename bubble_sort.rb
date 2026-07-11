@@ -11,4 +11,5 @@ def bubble_sort(array)
     end
     break unless swapped
   end
+  array
 end
